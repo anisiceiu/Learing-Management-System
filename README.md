@@ -19,7 +19,7 @@ A full-stack Learning Management System (LMS) built with React (client) and .NET
 - **State Management:** Redux Toolkit
 - **Authentication:** JWT-based authentication
 - **Other:** FormData for file uploads, Axios for API requests
-- **MongoDB** Redux Toolkit
+- **MongoDB** Database
 ## Getting Started
 
 ### Prerequisites
